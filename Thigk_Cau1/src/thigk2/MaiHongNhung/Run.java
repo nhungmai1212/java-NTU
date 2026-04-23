@@ -30,7 +30,7 @@ public class Run {
 		
 		System.out.println("Chỉ số BMI: " + BMI);
 
-
+		
 	}
 
 }
